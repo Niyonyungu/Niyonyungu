@@ -1,4 +1,4 @@
-### 👋 Hi, My Name Is NIYONYUNGU Michel Vainqueur
+### Hi 👋, My Name Is NIYONYUNGU Michel Vainqueur
 #### Front-End Developer
 
 - 🔭 I’m currently working on E-Commerce Project
