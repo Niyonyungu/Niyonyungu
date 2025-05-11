@@ -2,6 +2,6 @@
 #### Front-End Developer
 
 - 📫 Reach me at: vainqueurmg@gmail.com
-- Website: [https://vainqueur.vercel.app](https://www.michelvainqueur.com/)
+- Website: https://www.michelvainqueur.com
 
 
